@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Test Coverage
+.coverage
+htmlcov/
+
+# Cache
+.pytest_cache/
+
+# History
+.history/
+
+# Exclude presentation and video materials
+VIDEO_SCRIPT.md
+PRESENTATION_OUTLINE.md
+
+# OS
+.DS_Store
+Thumbs.db
